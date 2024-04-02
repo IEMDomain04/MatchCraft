@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036427516914",
+    "project_id": "matchcraft-matchinggame",
+    "storage_bucket": "matchcraft-matchinggame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036427516914:android:1820c74599368742b9696b",
+        "android_client_info": {
+          "package_name": "com.example.match_card_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPtChSo1H2NeVJZzXDvq6lAAHPKYTlh_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
