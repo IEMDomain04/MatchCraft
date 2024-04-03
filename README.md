@@ -1,2 +1,2 @@
 # match_card_game
-MatchingKardGEym
+This is simply a matching card game with a Minecraft theme.
