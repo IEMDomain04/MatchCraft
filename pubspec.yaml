@@ -1,0 +1,47 @@
+name: match_card_game
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.6 <3.0.0"
+
+dependencies:
+  confetti: ^0.7.0
+  cupertino_icons: ^1.0.2
+  flip_card: ^0.6.0
+  flutter:
+    sdk: flutter
+
+  shared_preferences: ^2.2.2
+  lottie: ^2.1.0
+  audioplayers: ^6.0.0
+  firebase_auth: ^4.18.0
+  cloud_firestore: ^4.15.10
+  firebase_core: ^2.27.2
+  firebase_database: ^10.4.11
+  connectivity: ^3.0.6
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/imb_images/
+    - assets/audio/mcmusic.mp3
+    - assets/MatchCraftBG.png
+    - assets/MatchCraftBG2.png
+    - assets/MatchCraftBG3.png
+    - assets/MatchCraftBG4.png
+    - assets/MatchCraftBG5.png
+    - assets/MatchCraftBG6.png
+    - assets/MatchCraftAnimation.json
+    
+  fonts:
+    - family: PassionOne
+      fonts:
+        - asset: assets/fonts/PassionOne-Regular.ttf
