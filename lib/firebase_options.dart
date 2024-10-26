@@ -43,39 +43,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDatZeujRrykdrdC6cvohxLgTI8TV41Tyg',
-    appId: '1:1036427516914:web:756d2336477d5086b9696b',
-    messagingSenderId: '1036427516914',
-    projectId: 'matchcraft-matchinggame',
-    authDomain: 'matchcraft-matchinggame.firebaseapp.com',
-    storageBucket: 'matchcraft-matchinggame.appspot.com',
-    measurementId: 'G-9H9T5JC31Z',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCPtChSo1H2NeVJZzXDvq6lAAHPKYTlh_U',
-    appId: '1:1036427516914:android:1820c74599368742b9696b',
-    messagingSenderId: '1036427516914',
-    projectId: 'matchcraft-matchinggame',
-    storageBucket: 'matchcraft-matchinggame.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB-DCf68_Ti57QIZFCsvLPVTGYrp0oMv1o',
-    appId: '1:1036427516914:ios:279bbaa19530acc9b9696b',
-    messagingSenderId: '1036427516914',
-    projectId: 'matchcraft-matchinggame',
-    storageBucket: 'matchcraft-matchinggame.appspot.com',
-    iosBundleId: 'com.example.matchCardGame',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB-DCf68_Ti57QIZFCsvLPVTGYrp0oMv1o',
-    appId: '1:1036427516914:ios:e25fb91c257fd8c7b9696b',
-    messagingSenderId: '1036427516914',
-    projectId: 'matchcraft-matchinggame',
-    storageBucket: 'matchcraft-matchinggame.appspot.com',
-    iosBundleId: 'com.example.matchCardGame.RunnerTests',
-  );
+  // APIs
 }
