@@ -43,5 +43,11 @@ class DefaultFirebaseOptions {
     }
   }
 
-  // APIs
+  static const FirebaseOptions web = FirebaseOptions();
+
+  static const FirebaseOptions android = FirebaseOptions();
+
+  static const FirebaseOptions ios = FirebaseOptions();
+
+  static const FirebaseOptions macos = FirebaseOptions();
 }
