@@ -1,14 +1,13 @@
 # MatchCraft: Matching Card Game
-
 Laboratory Activity: Applications Development and Emerging Technology
 
-A Matching Card Game with 3 Different Difficulties:
-1. Quickest Time
-2. Countdown
-3. Items | Mobs | Blocks
+## 3 Different Game Modes
+- **Quickest Time:** Test how quickly you can match the cards.
+- **Countdown:** Match all the cards before the timer runs out!
+- **Items | Mobs | Blocks:** Are you a Minecraft fan? Try this mode! It’s a unique twist without direct matches, can you complete it?
 
-This game also has leaderboard that every player plays the game can add their name and see their ranks.
-
+> [!NOTE]
+> Integrated with a Firebase database, this game also features a global leaderboard. Players can add their names and see their ranks as they play.
 
 ## Getting Started
 
